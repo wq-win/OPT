@@ -1,2 +1,2 @@
 # OPT
-https://github.com/wq-win/OPT/tree/master
+The source code is from https://github.com/TimePickerWang/MachineLearning/tree/master/MachineLearning/OptAlgorithm
